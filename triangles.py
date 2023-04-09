@@ -1,13 +1,13 @@
 import math
+# a=leg of triangle b=leg of triangle c=hypotenuse of triangle
 
+a = input("Enter the value of a: ")
 
-a = input("Enter the value of one side of triangle: ")
+b = input("Enter the value of b: ")
 
-b = input("Enter the value of second side of triangle: ")
+c = input("Enter the value of c: ")
 
-c = input("Enter the value of third side of triangle: ")
-
-print("I can check if triagle has right angle or not!!!!")
+print("I can find the sides of your right triangle")
 a,b,c = int(a), int(b),int(c)
 print(f"all sides are: {a, b, c}")
 
