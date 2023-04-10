@@ -1,15 +1,14 @@
 import math
 # a=leg of triangle b=leg of triangle c=hypotenuse of triangle
 
-a = input("Enter the value of a: ")
+a = float(input("Enter the value of a: "))
 
-b = input("Enter the value of b: ")
+b = float(input("Enter the value of b: "))
 
-c = input("Enter the value of c: ")
+c = float(input("Enter the value of c: "))
 
 print("I can find the sides of your right triangle")
-a,b,c = int(a), int(b),int(c)
-print(f"all sides are: {a, b, c}")
+a,b,c = float(a), float(b),float(c)
 
 if (a == 0) and (b != 0) and (c != 0):
     a = math.sqrt(c**2 - b**2)
