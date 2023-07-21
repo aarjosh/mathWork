@@ -1,7 +1,7 @@
 import math
 
-print("We are here to help find side of triangles A and B are shorter sides of triangle and C is hypotenuse.")
-res = input("Are you trying to find the hypotenuse of the triangle.(Y/N)")
+print("We are here to help find side of triangles A and B are shorter sides of triangle and C is potenuse.")
+res = input("Are you trying to find the potenuse of the triangle.(Y/N)")
 if (res == "Y"):
     a = float(input("a: "))
     b = float(input("b: "))
