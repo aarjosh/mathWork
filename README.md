@@ -8,4 +8,8 @@ This is a repo for doing math with python.
 The second code that I have written is hypotenuse.py. This can find either the hypotenuse or one side length. To find one side length you have to give the shorter side length and the hypotenuse length. 
 
 # Palindrome.py
-The third code that I have written is palindrome.py. This can find if your word or number is a palindrome or not. All you have to do is enter the word or number that you want to check. 
+The third code that I have written is palindrome.py. This can find if your word or number is a palindrome or not. All you have to do is enter the word or number that you want to check.
+
+# Area sq.rec.py
+The fourth code that I have written is area sq.rec.py. This can find the length of your square or rectangle. 
+All you have to do is enter the length and the width.
