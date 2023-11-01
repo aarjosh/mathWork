@@ -21,3 +21,6 @@ All you have to do is enter the radius.
 # Area circle.py
 The sixth code that I have written is area circle.py. This code can find the area of a circle.
 All you have to do is enter the radius.
+
+# Square root.py
+The seventh code that I have written is square root.py. This code can find the square root of any number that you give. All you have to do is enter the number that you want a square root of. 
