@@ -1,5 +1,3 @@
-# Find square root of real or complex numbers
-# Importing the complex math module
 l = float(input('Enter the number that you want to square root: '))
 import cmath
 num_sqrt = cmath.sqrt(l)
