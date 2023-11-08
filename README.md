@@ -24,3 +24,6 @@ All you have to do is enter the radius.
 
 # Square root.py
 The seventh code that I have written is square root.py. This code can find the square root of any number that you give. All you have to do is enter the number that you want a square root of. 
+
+# Square.py
+The eighth code that I have written is square.py. This code can find the square of any number that you give. All you have to do is enter the number that you want a square of.
