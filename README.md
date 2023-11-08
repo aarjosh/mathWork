@@ -1,5 +1,5 @@
 # mathWork
-This is a repo for doing math with python. 
+This is a repository for doing math with different codes of python.  
 
 # Triangles.py
  The first code I have written is triangles.py. This code can calculate all sides of the right angle triangles when two sides are given. The third side must be labeled 0. Also remember that the hypotenuse must be bigger than all the other sides.
