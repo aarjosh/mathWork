@@ -30,3 +30,6 @@ The eighth code that I have written is square.py. This code can find the square 
 
 # Calculator.py
 The ninth code that I have written is calculator.py. This code can add and subract as many numbers as you want. All you have to do is enter the number that you want to add or subtract.
+
+# Hangman.py
+The tenth code that I have written is hangman.py. This code is a game and it is like hangman but without the picture. All you have to do it enter the letters and the computer will see if it is right or wrong. 
