@@ -27,3 +27,6 @@ The seventh code that I have written is square root.py. This code can find the s
 
 # Square.py
 The eighth code that I have written is square.py. This code can find the square of any number that you give. All you have to do is enter the number that you want a square of.
+
+# Calculator.py
+The ninth code that I have written is calculator.py. This code can add and subract as many numbers as you want. All you have to do is enter the number that you want to add or subtract.
